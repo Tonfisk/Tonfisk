@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonfisk
-- 👀 I’m interested in Data Engineering, boosted by AI & ML
-- 🌱 I’m currently learning AI & ML through the Jetson Nano
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning AI & ML through the Jetson Nano.
 - 💞️ I’m looking to collaborate on, nothing, at the moment. 
 - 📫 How to reach me? Slide into DM
 
